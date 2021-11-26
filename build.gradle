@@ -15,11 +15,11 @@ version = '0.1.0'
 
 ext {
     slf4jVersion = '1.7.30'
-    junitVersion = '4.12'
     protocVersion = '3.3.0'
     projectLombokVersion = '1.18.18'
     kafkaVersion = '2.8.0'
     archaiusVersion = '0.7.6'
+    junitVersion = '4.13.2'
 }
 
 protobuf {
